@@ -1,0 +1,7 @@
+4	00104	Dell Inspiron      	55
+8	00104	Dell aeaInspiron      	55
+11	00104	Dell Inspiron      	55
+43	00104	Dell Indsspiron      	55
+7	00104	Dell Inspiron      	55
+0	00104	Dell Inspiron      	55
+2	00111	00001	2	0

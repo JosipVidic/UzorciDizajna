@@ -1,0 +1,2 @@
+Postoji duplikat kod definiranja na liniji : 15 => 1	00010	00009	0
+Postoji duplikat kod definiranja na liniji : 38 => 0	00104	Dell Inspiron      	2
